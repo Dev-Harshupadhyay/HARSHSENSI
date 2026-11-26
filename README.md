@@ -3,19 +3,17 @@
 </p>
 
 ```
-██╗  ██╗ █████╗ ██████╗ ███████╗██╗  ██╗
-██║  ██║██╔══██╗██╔══██╗██╔════╝██║  ██║
-███████║███████║██████╔╝███████╗███████║
-██╔══██║██╔══██║██╔══██╗╚════██║██╔══██║
-██║  ██║██║  ██║██║  ██║███████║██║  ██║
-╚═╝  ╚═╝╚═╝  ╚═╝╚═╝  ╚═╝╚══════╝╚═╝  ╚═╝
+  _   _    _    ____  ____  _____
+ | | | |  / \  |  _ \|  _ \/ ____|
+ | |_| | / _ \ | |_) | |_) \___ \
+ |  _  |/ ___ \|  _ <|  _ < |___) |
+ |_| |_/_/   \_\_| \_\|_| \_\____/
 
-███████╗███████╗███╗   ██╗███████╗██╗
-██╔════╝██╔════╝████╗  ██║██╔════╝██║
-███████╗█████╗  ██╔██╗ ██║███████╗██║
-╚════██║██╔══╝  ██║╚██╗██║╚════██║██║
-███████║███████╗██║ ╚████║███████║██║
-╚══════╝╚══════╝╚═╝  ╚═══╝╚══════╝╚═╝
+  ____  _____ _   _ ____  _____
+ / ___|| ____| \ | |/ ___||_   _|
+ \___ \| _|   | \| |\___ \ | |
+  ___) | |___ | |\  |___) || |
+ |____/|_____||_| |____/ |_|
 ```
 
 <p align="center">
@@ -59,6 +57,16 @@ Simply run the tool, wait for the scan to complete, aur generated sensitivity va
 
 ---
 
+## 📸 Screenshot
+
+<p align="center">
+  <img src="screenshot.png" width="480" alt="HARSH SENSI Terminal Screenshot">
+</p>
+
+> Termux me HARSH SENSI ka live look — colourful ASCII logo, WELCOME banner, device scan, sensitivity output aur exit par **JAI SHREE RAM** 🙏
+
+---
+
 ## 📥 Installation
 
 <p align="center">
@@ -96,6 +104,9 @@ HARSHSENSI/
 │
 ├── logo.png
 │   └── HARSH SENSI Logo
+│
+├── screenshot.png
+│   └── Terminal Screenshot
 │
 ├── logo.txt
 │   └── ASCII Logo (terminal ke liye)
@@ -168,11 +179,11 @@ HARSHSENSI/
   SCALE 1-200
 ======================================================
 DEVICE : Redmi Note 13
-CHIP   : ...
+CHIP   : Snapdragon 685 / khaki
 PANEL  : 1080x2400 @90Hz 440dpi
 RAM    : 8.0GB | BATT 85% | LOAD 0.42
 TOUCH  : 240Hz | LAT 4.17ms
-POWER  : 72.5/100 | GFXIDX ... | BOOST 8.0
+POWER  : 72.5/100 | GFXIDX 18.42 | BOOST 8.0
 TIER   : upper_mid | HS_MODE ON
 
 --- INGAME ---
